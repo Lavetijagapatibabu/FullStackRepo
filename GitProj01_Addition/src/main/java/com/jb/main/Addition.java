@@ -9,7 +9,8 @@ public class Addition {
 		int a=10;
 		int b=20;
 		//performing Addition Operation
-		return a+b;
+		int z=a+b;
+		return z;
 	}
 
 }
