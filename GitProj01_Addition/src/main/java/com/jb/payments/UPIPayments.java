@@ -11,5 +11,4 @@ public class UPIPayments {
 		return item+" Cost is ::"+amount;
 	}
 
-
 }
