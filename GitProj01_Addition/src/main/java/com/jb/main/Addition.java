@@ -17,5 +17,10 @@ public class Addition {
 		int b=10;
 		return a-b;
 	}
+	public float performingDivision() {
+		int a=10;
+		int b=20;
+		return a/b;
+	}
 
 }
