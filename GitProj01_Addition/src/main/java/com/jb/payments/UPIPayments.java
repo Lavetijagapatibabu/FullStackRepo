@@ -8,8 +8,6 @@ public class UPIPayments {
 	public String paytm (String item,int amount) {
 		return item+" Cost is ::"+amount;
 	}
-	
-
 	public String Gpay(String item,int amount) {
 		return item+" Cost is ::"+amount;
 	}
