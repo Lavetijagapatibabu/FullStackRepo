@@ -12,5 +12,10 @@ public class Addition {
 		int z=a+b;
 		return z;
 	}
+	public int performingSubStraction() {
+		int a=20;
+		int b=10;
+		return a-b;
+	}
 
 }
