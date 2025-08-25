@@ -13,7 +13,7 @@ public class UPIPayments {
 
 
 	public String PayZapp(String item,int amount) {
-		return item+" Cost is ::"+amount;
+		return item+" Cost is ::"+amount;	
 	}
 
 }
